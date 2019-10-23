@@ -1,4 +1,5 @@
-======================== DNS simple subset =============================
+DNS simple subset
+---------------------------------------------------
 Developer: Henrique da Silva Deziderio
 
 
@@ -10,7 +11,6 @@ This program can register any domain from a Domain Name System (DNS), acknowledg
 
 Running the Python program in a prompt, the user will see the following text:
 
------------------------------------------------------------
 DNS Subset
 Developer: Henrique da Silva Deziderio
 
@@ -20,13 +20,10 @@ Choose your option:
 3 - Delete DNS;
 
 Type 0 to exit.
------------------------------------------------------------
 
 The program gives to the user the option to type values among 0 to 3. If another number is typed, there will appear the following message:
 
------------------------------------------------------------
 Wrong option, choose a value among 0 to 3.
------------------------------------------------------------
 
 And the inicial menu appears again. If another kind of option is typed, like a string, for example, the program ends with an error and don't modify the source file.
 
